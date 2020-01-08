@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpretadorProtocoloMatrix", "InterpretadorProtocoloMatrix.csproj", "{394BD8CC-0935-47A2-A4E0-331193A3969E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394BD8CC-0935-47A2-A4E0-331193A3969E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394BD8CC-0935-47A2-A4E0-331193A3969E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394BD8CC-0935-47A2-A4E0-331193A3969E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394BD8CC-0935-47A2-A4E0-331193A3969E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD129BA4-E0EE-4E29-B1AE-3779276CF8CF}
+	EndGlobalSection
+EndGlobal
