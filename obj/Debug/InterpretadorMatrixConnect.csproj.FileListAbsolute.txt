@@ -1,0 +1,6 @@
+C:\Projetos\Kementari\InterpretadorMatrixConnect\bin\Debug\InterpretadorProtocoloMatrix.dll
+C:\Projetos\Kementari\InterpretadorMatrixConnect\bin\Debug\InterpretadorProtocoloMatrix.pdb
+C:\Projetos\Kementari\InterpretadorMatrixConnect\obj\Debug\InterpretadorMatrixConnect.csprojAssemblyReference.cache
+C:\Projetos\Kementari\InterpretadorMatrixConnect\obj\Debug\InterpretadorMatrixConnect.csproj.CoreCompileInputs.cache
+C:\Projetos\Kementari\InterpretadorMatrixConnect\obj\Debug\InterpretadorProtocoloMatrix.dll
+C:\Projetos\Kementari\InterpretadorMatrixConnect\obj\Debug\InterpretadorProtocoloMatrix.pdb
