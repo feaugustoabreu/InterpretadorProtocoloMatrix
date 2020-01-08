@@ -1,0 +1,6 @@
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\bin\Release\InterpretadorProtocoloMatrix.dll
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\bin\Release\InterpretadorProtocoloMatrix.pdb
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\InterpretadorProtocoloMatrix.csprojAssemblyReference.cache
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\InterpretadorProtocoloMatrix.csproj.CoreCompileInputs.cache
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\InterpretadorProtocoloMatrix.dll
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\InterpretadorProtocoloMatrix.pdb

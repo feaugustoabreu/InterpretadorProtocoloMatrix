@@ -49,5 +49,8 @@
     <Compile Include="Recebimento.cs" />
     <Compile Include="Util.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="InterpretadorProtocoloMatrix.nuspec" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Interpretador de Protocolo Matrix")]
 [assembly: AssemblyDescription("Interpretador .NET para ler e escrever arquivos .RCB e .ENV utilizados no protocolo Matrix pelo MatrixConnect")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Fernando de Abreu")]
 [assembly: AssemblyProduct("Interpretador de Protocolo Matrix")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
