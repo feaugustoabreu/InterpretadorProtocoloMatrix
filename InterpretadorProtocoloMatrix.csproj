@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.0.2</Version>
     <Description>Interpretador .NET para ler e escrever arquivos .RCB e .ENV utilizados no protocolo Matrix pelo MatrixConnect</Description>
     <Authors>Fernando de Abreu</Authors>
     <Company />
@@ -14,7 +14,9 @@
     <RepositoryUrl>https://github.com/feaugustoabreu/InterpretadorProtocoloMatrix</RepositoryUrl>
     <PackageTags>matrixconnect matrixsaude tm laboratorial protocolo matrix</PackageTags>
     <NeutralLanguage>pt-BR</NeutralLanguage>
-    <PackageReleaseNotes>Correção de projeto para novo processo de geração do pacote nuget</PackageReleaseNotes>
+    <PackageReleaseNotes>Remoção de método não pertinente ao escopo do interpretador</PackageReleaseNotes>
+    <AssemblyVersion>1.0.0.2</AssemblyVersion>
+    <FileVersion>1.0.0.2</FileVersion>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
