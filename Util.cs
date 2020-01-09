@@ -158,15 +158,6 @@ namespace InterpretadorProtocoloMatrix
             return s.Substring((startIndex - 1), length);
         }
 
-        public static string CalcularIdAmostraMatrixConnect(string strIdAmostra, string strCodBarras)
-        {
-            strIdAmostra = strIdAmostra.Substring(7);
-            if (LoadAlfabeto().Contains(strCodBarras.Select(s => s.ToString()).Last()))
-                strIdAmostra += strCodBarras.Select(s => s.ToString()).Last();
-
-            return strIdAmostra;
-        }
-
         public static bool SalvarArquivoRCB(string strDiretorio, int iCodCliente, string strIdAmostra, string strBody, out string strMensagem)
         {
             try
