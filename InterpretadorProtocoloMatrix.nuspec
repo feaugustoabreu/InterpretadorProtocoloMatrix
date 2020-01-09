@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://www.github.com/feaugustoabreu/InterpretadorProtocoloMatrix</projectUrl>
+    <icon>~\icon.png</icon>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <references>
+      <reference file="InterpretadorProtocoloMatrix.dll" />
+    </references>
+    <copyright>Copyright 2020</copyright>
+    <tags>matrixconnect matrixsaude tm laboratorial protocolo matrix</tags>
+  </metadata>
+</package>

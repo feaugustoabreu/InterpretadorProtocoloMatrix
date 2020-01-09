@@ -1,0 +1,8 @@
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\net472\InterpretadorProtocoloMatrix.csprojAssemblyReference.cache
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\net472\InterpretadorProtocoloMatrix.csproj.CoreCompileInputs.cache
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\net472\InterpretadorProtocoloMatrix.AssemblyInfoInputs.cache
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\net472\InterpretadorProtocoloMatrix.AssemblyInfo.cs
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\bin\Release\net472\InterpretadorProtocoloMatrix.dll
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\bin\Release\net472\InterpretadorProtocoloMatrix.pdb
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\net472\InterpretadorProtocoloMatrix.dll
+C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Release\net472\InterpretadorProtocoloMatrix.pdb
