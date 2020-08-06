@@ -6,3 +6,11 @@ C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\Interpr
 C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.AssemblyInfo.cs
 C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.dll
 C:\Projetos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.pdb
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\bin\Debug\net472\InterpretadorProtocoloMatrix.dll
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\bin\Debug\net472\InterpretadorProtocoloMatrix.pdb
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.csprojAssemblyReference.cache
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.AssemblyInfoInputs.cache
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.AssemblyInfo.cs
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.dll
+C:\Users\Fabricio\Source\Repos\feaugustoabreu\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.pdb

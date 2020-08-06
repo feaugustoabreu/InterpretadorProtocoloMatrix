@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {}
+    "C:\\Users\\Fabricio\\Source\\Repos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {
+    "C:\\Users\\Fabricio\\Source\\Repos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {
       "version": "1.0.0.2",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
+        "projectUniqueName": "C:\\Users\\Fabricio\\Source\\Repos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
         "projectName": "InterpretadorProtocoloMatrix",
-        "projectPath": "C:\\Projetos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
-        "packagesPath": "C:\\Users\\Dev04\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\obj\\",
+        "projectPath": "C:\\Users\\Fabricio\\Source\\Repos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
+        "packagesPath": "C:\\Users\\Fabricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fabricio\\Source\\Repos\\feaugustoabreu\\InterpretadorProtocoloMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dev04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fabricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -41,7 +41,9 @@
         }
       },
       "frameworks": {
-        "net472": {}
+        "net472": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
       }
     }
   }

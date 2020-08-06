@@ -162,7 +162,7 @@ namespace InterpretadorProtocoloMatrix.Envio
             {
                 if (!_exames.Any())
                 {
-                    for (int i = 1; i <= 20; i++)
+                    for (int i = 0; i <= 20; i++)
                         _exames.Add(string.Format("EXAME{0}", i), string.Empty.NormalizeProperty(8));
                 }
 
@@ -209,7 +209,7 @@ namespace InterpretadorProtocoloMatrix.Envio
                     Origem +
                     DataColeta;
 
-                for (int i = 1; i <= 20; i++)
+                for (int i = 0; i <= 20; i++)
                     Linha += Exames[string.Format("EXAME{0}", i)];
 
                 DigitosVerificacao = Util.CalcularModulo256(Linha);
