@@ -224,34 +224,34 @@ namespace InterpretadorProtocoloMatrix.Recebimento
         /// Rack à qual a amostra foi associada no instrumento. Dependendo do tipo de instrumento, poderá ser indicado o código de uma rack de fato, ou o código de um rotor, de um disco, de uma microplaca etc. (índice = 83)
         /// </summary>
         [Required()]
-        [StringLength(6, MinimumLength = 6)]
+        [StringLength(8, MinimumLength = 8)]
         public string Rack { get; set; }
 
         /// <summary>
-        /// Data em que a amostra foi coletada, conforme informado pelo LIS. (índice = 89)
+        /// Data em que a amostra foi coletada, conforme informado pelo LIS. (índice = 91)
         /// </summary>
         [Required()]
         [StringLength(8, MinimumLength = 8)]
         public string DataColeta { get; set; }
 
         /// <summary>
-        /// Campo livre, com envio opcional configurável no MatrixConnect. Conteúdo atribuído pelo operador para a amostra em questão. Ex.: “Material hemolisado”. (índice = 97)
+        /// Campo livre, com envio opcional configurável no MatrixConnect. Conteúdo atribuído pelo operador para a amostra em questão. Ex.: “Material hemolisado”. (índice = 99)
         /// </summary>
         [Required()]
         [StringLength(80, MinimumLength = 80)]
         public string Observacao { get; set; }
 
         /// <summary>
-        /// Posição à qual a amostra foi associada no rack do instrumento. (índice = 177)
+        /// Posição à qual a amostra foi associada no rack do instrumento. (índice = 179)
         /// </summary>
         [Required()]
         [StringLength(6, MinimumLength = 6)]
         public string Escaninho { get; set; }
 
         /// <summary>
-        /// (índice = 183)
+        /// (índice = 185)
         /// </summary>
-        public string Reservado183 { get; } = string.Empty.PadLeft(66, ' ');
+        public string Reservado183 { get; } = string.Empty.PadLeft(64, ' ');
 
         /// <summary>
         /// (índice = 249)
@@ -282,10 +282,10 @@ namespace InterpretadorProtocoloMatrix.Recebimento
                 RegistroPaciente = linha.OneBasedSubString(55, 12);
                 Origem = linha.OneBasedSubString(67, 8);
                 Material = linha.OneBasedSubString(75, 8);
-                Rack = linha.OneBasedSubString(83, 6);
-                DataColeta = linha.OneBasedSubString(89, 8);
-                Observacao = linha.OneBasedSubString(97, 80);
-                Escaninho = linha.OneBasedSubString(177, 6);
+                Rack = linha.OneBasedSubString(83, 8);
+                DataColeta = linha.OneBasedSubString(91, 8);
+                Observacao = linha.OneBasedSubString(99, 80);
+                Escaninho = linha.OneBasedSubString(179, 6);
                 DigitosVerificacao = linha.OneBasedSubString(249, 2);
                 Linha = linha;
 
@@ -960,7 +960,7 @@ namespace InterpretadorProtocoloMatrix.Recebimento
         public string TotalLinhasArquivo { get; set; } //NUMÉRICO
 
         /// <summary>
-        /// (índice = 249)
+        /// (índice = 8)
         /// </summary>
         [Required()]
         [StringLength(2, MinimumLength = 2)]
