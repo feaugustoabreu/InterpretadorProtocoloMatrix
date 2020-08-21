@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>InterpretadorProtocoloMatrix</id>
-    <version>1.0.0.2</version>
+    <version>1.0.1</version>
     <authors>Fernando de Abreu</authors>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">MIT</license>
@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/feaugustoabreu/InterpretadorProtocoloMatrix</projectUrl>
     <iconUrl>http://matrixsaude.com/wp-content/uploads/2018/09/Photo_Connect_600Ha.png</iconUrl>
     <description>Interpretador .NET para ler e escrever arquivos .RCB e .ENV utilizados no protocolo Matrix pelo MatrixConnect</description>
-    <releaseNotes>Remoção de método não pertinente ao escopo do interpretador</releaseNotes>
+    <releaseNotes>Ajuste de posições na linha de amostras  do arquivo .ENV</releaseNotes>
     <copyright>2020</copyright>
     <tags>matrixconnect matrixsaude tm laboratorial protocolo matrix</tags>
     <repository url="https://github.com/feaugustoabreu/InterpretadorProtocoloMatrix" />
