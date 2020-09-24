@@ -22,3 +22,11 @@ C:\Users\Fabricio\Source\Repos\fabriciorcsilva\InterpretadorProtocoloMatrix\obj\
 C:\Users\Fabricio\Source\Repos\fabriciorcsilva\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.dll
 C:\Users\Fabricio\Source\Repos\fabriciorcsilva\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.pdb
 C:\Users\Fabricio\Source\Repos\fabriciorcsilva\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.csprojAssemblyReference.cache
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\bin\Debug\net472\InterpretadorProtocoloMatrix.dll
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\bin\Debug\net472\InterpretadorProtocoloMatrix.pdb
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.csprojAssemblyReference.cache
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.AssemblyInfoInputs.cache
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.AssemblyInfo.cs
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.csproj.CoreCompileInputs.cache
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.dll
+C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\obj\Debug\net472\InterpretadorProtocoloMatrix.pdb

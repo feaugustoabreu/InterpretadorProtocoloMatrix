@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InterpretadorProtocoloMatrix</id>
+    <version>1.0.0.5</version>
+    <authors>Fernando de Abreu</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/feaugustoabreu/InterpretadorProtocoloMatrix</projectUrl>
+    <iconUrl>http://matrixsaude.com/wp-content/uploads/2018/09/Photo_Connect_600Ha.png</iconUrl>
+    <description>Interpretador .NET para ler e escrever arquivos .RCB e .ENV utilizados no protocolo Matrix pelo MatrixConnect</description>
+    <releaseNotes>Adicionado a data no formato "yyyyMMddTHHmmss" no nome do arquivo .RCB a ser criado</releaseNotes>
+    <copyright>2020</copyright>
+    <tags>matrixconnect matrixsaude tm laboratorial protocolo matrix</tags>
+    <repository url="https://github.com/feaugustoabreu/InterpretadorProtocoloMatrix" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.Build.Framework" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.ComponentModel.DataAnnotations" targetFramework=".NETFramework4.7.2" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Versatilis\Workspace\InterpretadorProtocoloMatrix\bin\Debug\net472\InterpretadorProtocoloMatrix.dll" target="lib\net472\InterpretadorProtocoloMatrix.dll" />
+  </files>
+</package>
