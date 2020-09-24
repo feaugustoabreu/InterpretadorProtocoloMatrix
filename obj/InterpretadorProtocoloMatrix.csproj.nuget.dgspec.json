@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fabricio\\Source\\Repos\\fabriciorcsilva\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {}
+    "C:\\Versatilis\\Workspace\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fabricio\\Source\\Repos\\fabriciorcsilva\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {
-      "version": "1.0.0.4",
+    "C:\\Versatilis\\Workspace\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj": {
+      "version": "1.0.0.5",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabricio\\Source\\Repos\\fabriciorcsilva\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
+        "projectUniqueName": "C:\\Versatilis\\Workspace\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
         "projectName": "InterpretadorProtocoloMatrix",
-        "projectPath": "C:\\Users\\Fabricio\\Source\\Repos\\fabriciorcsilva\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
+        "projectPath": "C:\\Versatilis\\Workspace\\InterpretadorProtocoloMatrix\\InterpretadorProtocoloMatrix.csproj",
         "packagesPath": "C:\\Users\\Fabricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabricio\\Source\\Repos\\fabriciorcsilva\\InterpretadorProtocoloMatrix\\obj\\",
+        "outputPath": "C:\\Versatilis\\Workspace\\InterpretadorProtocoloMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,7 +42,7 @@
       },
       "frameworks": {
         "net472": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

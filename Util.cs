@@ -163,7 +163,7 @@ namespace InterpretadorProtocoloMatrix
             try
             {
                 //CONSTRUTOR DO NOME DO ARQUIVO
-                string strFileName = $"{strDiretorio}\\{iCodCliente}_{strIdAmostra}.RCB";
+                string strFileName = $"{strDiretorio}\\{DateTime.Now.ToString("yyyyMMddTHHmmss")}_{iCodCliente}_{strIdAmostra}.RCB";
 
                 //SE NÃO EXISTIR, CRIA O DIRETÓRIO SOLICITADO
                 System.IO.FileInfo ArquivoRCB = new System.IO.FileInfo(strFileName);
