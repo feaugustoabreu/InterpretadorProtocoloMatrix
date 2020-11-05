@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Interpretador .NET para ler e escrever arquivos .RCB e .ENV utilizados no protoco" +
     "lo Matrix pelo MatrixConnect")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.6")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.7")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterpretadorProtocoloMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterpretadorProtocoloMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.6")]
