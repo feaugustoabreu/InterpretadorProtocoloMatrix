@@ -94,7 +94,7 @@ namespace InterpretadorProtocoloMatrix.Recebimento
         public static List<Paciente> ImportarPacientes(string strDiretorioArquivo)
         {
             List<Paciente> Pacientes = new List<Paciente>();
-            List<string> lMatrixLines = File.ReadAllLines(strDiretorioArquivo, System.Text.Encoding.UTF8).ToList();
+            List<string> lMatrixLines = File.ReadAllLines(strDiretorioArquivo, System.Text.Encoding.Default).ToList();
 
             foreach (string PacienteLine in lMatrixLines.Where(w => !w.Contains(Util.MatrixRuler) && Convert.ToInt32(w.OneBasedSubString(1, 2)) == (int)TipoLinha.Paciente))
             {
